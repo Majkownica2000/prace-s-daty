@@ -1,0 +1,16 @@
+1. Zjistìte detailní informace o staženém videoklipu:
+    a) Jména interpretù i název hudební skupiny.
+	2Cellos Luka Sulic and Stjepan Hauser
+    b) Název skladby.
+	Game of Thrones Medley
+    c) S jakým seriálem je tato skladba spojena? Kdo je autorem scénáøe?
+	Hra o trùny, 	David Benioff, D. B. Weiss, Bryan Cognan, George R. R. Martin ad.
+    d) V kterém mìstì a státì se tento klip natáèel? Tušíte proè?
+    Dubrovník Chorvatsko, Protože se tam natáèel i ten seriál.
+2. Použijte pøehrávaè VLC a editor Audacity, abyste:
+    a) Zjistili základní údaje o daném videu: rozlišení, délku, použité kodeky (zvuk i obraz)
+	640x360px, 5 min 3 s, kodek video = avc1, zvuk kodek = mp4a-40-2
+    b) Oddìlili z videa zvukovou stopu ve formátu MP3.
+	
+    c) Vytvoøili zkrácenou zvukovou ukázku dlouhou pøesnì 30 sekund s postupným nábìhem zvuku na zaèátku (efekt FadeIn) a zeslabením zvuku na konci (efekt FadeOut).  
+	

@@ -1,0 +1,41 @@
+Zahrajte si na informaèní detektivy a zjistìte požadovaná fakta o následujících souborech:
+1. Soubor divny.txt:
+    a) Jaké má soubor pøiøazeny atributy a kdy byl vytvoøen i zmìnìn?
+    Má atributy RHA, byl vytvoøen 27.11.2024 7:57, byl zmìnìn 19.10.2012 22:25
+    b) V jakém znakovém kódování je uložen?
+	je uložen v UTF-8
+    c) V jakém jazyce je napsán jeho obsah?
+	Je napsán v Japonštinì.
+    d) O èem text pojednává a z jakého internetového zdroje pochází (ideálnì uveïte pøesnou URL adresu)?
+	Pojednává o mìstì Praha. https://cs.wikipedia.org/wiki/Praha
+    
+2. Soubor city.jpg:
+    a) Jaké rozmìry má tato fotka (v pixelech)?
+	1366x768px
+    b) Jak se jmenuje mìsto na obrázku?
+	Nairobi
+    c) Kde se toto mìsto pøesnì nachází (uveïte stát i kontinent)?
+	nachází se v Keni, je to v Africe.
+    d) Zjistìte aspoò GPS souøadnice nejvyšší budovy na fotce?
+	1°18'0,31” j. š., 36°48'46,86” v. d.
+    e) Co se v této budovì nachází?
+ 	kanceláøe
+    
+3. Soubor person.jpg:
+    a) Jaké jsou bitová hloubka a rozlišení tohoto obrázku?
+	24bit, 72dpi
+    b) Kdo je na této fotografii (jméno, pøíjmení, národnost, povolání)?
+	Katalin Nováková, maïarská, bývalá prezidentka
+    c) Uveïte adresu aspoò jednoho profilu této osoby na sociálních sítích.
+	https://www.facebook.com/novak.katalin.official/
+    d) Najdìte na internetu co nejaktuálnìjší èlánek v èeském jazyce, v nìmž je jméno této osoby zmínìno.
+    https://www.seznamzpravy.cz/clanek/zahranicni-byvala-madarska-prezidentka-se-stala-sefkou-nevladni-organizace-259333
+4. Soubor flag.png:
+    a) Jaká jsou bitová hloubka a rozmìry tohoto obrázku?
+	8, 580x387px
+    b) Vlajka kterého státu je na obrázku? 
+	Bhútán
+    c) Najdìte bližší informace o tomto státu: rozlohu, poèet obyvatel, hlavní mìsto
+	 14 824 mi2 ,787 424 (2023), Thimphu
+    d) Zjistìte pøesné barvy (RGB v desítkové i šestnáctkové soustavì) obou trojúhelníkových blokù v pozadí vlajky.   	rgba(255,213,32,255), #ffd520
+	rgba(254,78,19,255), #fe4e13
